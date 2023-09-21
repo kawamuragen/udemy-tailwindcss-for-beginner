@@ -2,8 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+html,
 body {
-  background: rgb(238, 234, 234);
+  scroll-behavior: smooth;
 }
 
 .btn {
